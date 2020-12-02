@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Blogg::VERSION
   spec.authors     = [""]
   spec.email       = [""]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Blogg."
-  spec.description = "TODO: Description of Blogg."
+  spec.homepage    = "https://www.google.com"
+  spec.summary     = "Summary of Blogg."
+  spec.description = "Description of Blogg."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
